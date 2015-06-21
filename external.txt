@@ -4,4 +4,4 @@ https://github.com/adafruit/Adafruit-LED-Backpack-Library
 Adafruit_GFX.h
 https://github.com/adafruit/Adafruit-GFX-Library
 
-git clone at 6 June 2015.
+git clone at 7 June 2015.
